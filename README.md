@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexFirica
-- 👀 I’m interested in Javascript , html, css , C++ , C
+- 👀 I’m interested in C++ , C#
 - 🌱 I’m currently learning coding
 
 <!---
